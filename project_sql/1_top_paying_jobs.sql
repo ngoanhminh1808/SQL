@@ -1,9 +1,9 @@
 SELECT
     job_title,
     job_location,
-    cd.name,
+    cd.name AS company_name,
     job_schedule_type,
-    salary_year_avg
+    salary_year_avg AS avg_salary
 FROM
     job_postings_fact AS jp
 LEFT JOIN company_dim as cd ON cd.company_id = jp.company_id
