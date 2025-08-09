@@ -198,6 +198,7 @@ LIMIT 25
 | R          | 148            | 100,499            |
 | SAS        | 63             | 98,902             |
 | Looker     | 49             | 103,795            |
+
 *Table of the optimal skills to learn, based on their demands and average salaries*
 # What I learned
 Throughout this adventure, I've upgraded my SQL toolkit with some serious abilities:
