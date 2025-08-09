@@ -91,7 +91,9 @@ ORDER BY
 🔑 Skill Insights:
 
 - **🥇 SQL:** Required by all 8 roles.
-- **🐍 Python:** 7 roles. Tableau: 6 roles. R, Snowflake, Excel, Pandas, Azure, AWS: 3-4 roles each.
+- **🐍 Python:** 7 roles. 
+- **Tableau:** 6 roles. 
+- **R, Snowflake, Excel, Pandas, Azure, AWS:** 3-4 roles each.
 - **🔍 Other skills (e.g., Go, NumPy, Crystal):** 1-2 roles, showing diverse needs.
 - **🌟 AT&T’s role:** Most skills (13). Get It Recruit - IT: Fewest (3).
 
