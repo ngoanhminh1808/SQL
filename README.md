@@ -156,7 +156,7 @@ LIMIT 25
 - **🥉 Couchbase/Watson:** Both at $160,515, sought after for NoSQL databases and AI-driven analytics. 🤖
 - **📊 Pandas:** Average salary of $151,821, a cornerstone for Python-based data analysis. 🐼
 - **🔍 Databricks:** Average salary of $141,907, growing in unified data analytics platforms. ☁️
-![Skills with high salaries](project_sql/assets/chart(3).png)
+![Skills with high salaries](project_sql/assets/chart(5).png)
 *Bar graph visualizing the average skill salaries in Data Analyst roles; Grok generated this graph from my own query results.*
 
 ### 5. Optimal skills to learn
