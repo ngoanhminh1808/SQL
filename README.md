@@ -97,7 +97,7 @@ ORDER BY
 - **🔍 Other skills (e.g., Go, NumPy, Crystal):** 1-2 roles, showing diverse needs.
 - **🌟 AT&T’s role:** Most skills (13). Get It Recruit - IT: Fewest (3).
 
-![Skills required](project_sql/assets/chart(1).png)
+![Skills required](project_sql/assets/chart(4).png)
 *Bar graph visualizing the skill frequency in top paying Data Analyst roles; Grok generated this graph from my own query results.*
 ### 3. Most in-demand skills
 To specify the skills with highest demands, I used the COUNT aggregation to find how many times the skills are mentioned, then grouped by the skill names. I also joined the skills dimension table and the skills to job dimension table to the main job postings table. 
